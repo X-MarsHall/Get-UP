@@ -1,6 +1,1 @@
-http://www.smkxaveriuspalembang.sch.id
-http://www.miftahunnajah.sch.id
-http://smpit-daarulhidayah.sch.id
-http://sman3surabaya.sch.id
-http://www.mankaur.sch.id
-http://www.smkn4sarolangun.sch.id
+http://example.com
